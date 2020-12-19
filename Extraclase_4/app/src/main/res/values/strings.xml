@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XORList</string>
+    <string name="anterior">Anterior</string>
+    <string name="next">Next</string>
+    <string name="siguiente">siguiente</string>
+</resources>
